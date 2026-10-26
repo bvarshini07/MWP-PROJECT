@@ -1,0 +1,20 @@
+{
+  "name": "jwt-based-user-authentication-system",
+  "version": "1.0.0",
+  "description": "JWT-Based User Authentication System Mini Project",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node --watch backend/server.js"
+  },
+  "keywords": [
+    "jwt",
+    "authentication",
+    "college-project",
+    "bcrypt",
+    "express",
+    "mongodb"
+  ],
+  "author": "Student Mini Project",
+  "license": "ISC"
+}
